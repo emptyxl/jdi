@@ -1,1 +1,5 @@
 # jdi
+
+id
+ifconifg
+pwd
